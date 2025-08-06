@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @k0nduktr aka Contre-Jour
-- 👀 I’m interested in photography, painting, python
-- 🌱 I’m currently learning "konkrete Mathematik" and training myself in python. Doing a course in creativity and train myself in instinct photography
-- 💞️ I’m looking to collaborate on AI (Alternative Intelligence, Neuronal Net, Artificial Intelligence) using python to develop and add this topic to my art I am developing.
-p.m. me if you want to know more.. 
+- 👋 Hi, I’m @k0nduktr aka Contre-Jour (Photo Berlin)
+- 👀 I’m an artist in photography, painting, but also programming (I am starting) using currently python and javascript.
+- 🌱 I’m currently learning "konkrete Mathematik" and training myself. In addition I practise a lot of instinct photography
+- 💞️ I’m looking to collaborate on AI and Art (Alternative Intelligence, Neuronal Net with a purpose, Artificial Intelligence based on our content)
+- My IT concept is keep things on the edge of art and nature. Nature can teach us so much we are just a glimpse in our current knowledge.
+-
+- pm. me if you want to know more.. 
 - 📫 How to reach me is by email: contre-jour@quantentunnel.de
 
 <!---
